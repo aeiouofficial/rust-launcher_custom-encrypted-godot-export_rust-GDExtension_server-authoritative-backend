@@ -128,7 +128,7 @@ Use this upgraded README as the repository entrypoint and the raw source file as
 
 Recommended order:
 
-1. Read the raw v3 blueprint.
+1. Read the raw blueprint.
 2. Use this README for public-facing structure.
 3. Implement the vertical slice first.
 4. Expand backend authority subsystem by subsystem.
